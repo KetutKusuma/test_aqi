@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1015474065844",
+    "project_id": "testaqi-9d141",
+    "storage_bucket": "testaqi-9d141.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015474065844:android:3d3250e9af3b67e01722e1",
+        "android_client_info": {
+          "package_name": "com.example.test_aqi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015474065844-r7636ub4k4fjvdknutqubdu2v8vriaf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4glz011zKEpjLpf8EXL9Aa6XjXqzWY9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015474065844-r7636ub4k4fjvdknutqubdu2v8vriaf3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
